@@ -59,6 +59,7 @@ About Refraction form the Optical Surfaces:
 
 [3].  A. Mikš, and P. Novák, "Determination of unit normal vectors of aspherical surfaces given unit directional vectors of incoming and outgoing rays: comment," 
                                                                                                          J. Opt. Soc. Am. A 29, 1356-1357 (2012).
+                                                                                                         
 [4].  https://physics.stackexchange.com/questions/435512/snells-law-in-vector-form
 
 About the Density of Rays and the Reconstruction of E. Field using Rays:
@@ -68,6 +69,7 @@ About the Density of Rays and the Reconstruction of E. Field using Rays:
 About Voronoi Mesh:
 
 [5].  F. Aurenhammer, "Voronoi diagrams—A survey of a fundamental geometric data structure,"                ACM Comput. Surv. 23, 345–405 (1991).
+
 [6].  https://reference.wolfram.com/language/ref/VoronoiMesh
 
 About Fresnel Diffraction:
